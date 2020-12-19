@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br/>
 
 <!--
 **dhiraj-ydv/dhiraj-ydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +28,5 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<br/>
-
 
 [![website](https://img.shields.io/badge/PersonalWebsite-dhirajyadav.ninja-2648ff?style=flat-square&logo=google-chrome)](https://dhirajyadav.ninja/)
