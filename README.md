@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 
-[![Linkedin: dhiraj-yadav-248b611a6](https://img.shields.io/badge/-dhiraj-yadav-248b611a6-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhiraj-yadav-248b611a6/)](https://www.linkedin.com/in/dhiraj-yadav-248b611a6/)
+[![website](https://img.shields.io/badge/PersonalWebsite-dhirajyadav.ninja-2648ff?style=flat-square&logo=google-chrome)](https://dhirajyadav.ninja/)
