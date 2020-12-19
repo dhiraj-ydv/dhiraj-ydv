@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj-ydv&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <!--
 **dhiraj-ydv/dhiraj-ydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
