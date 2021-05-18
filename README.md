@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-
+<!--
 <a href="https://twitter.com/DhirajY841">
   <img align="left" alt="dhiraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/dhiraj-yadav-248b611a6">
   <img align="left" alt="dhiraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+-->
 
 [![website](https://img.shields.io/badge/PersonalWebsite-dhirajyadav.ninja-2648ff?style=flat-square&logo=google-chrome)](https://dhirajyadav.ninja/)
