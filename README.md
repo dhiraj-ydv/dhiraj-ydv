@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 </a>
 -->
 
-[![website](https://img.shields.io/badge/Personal Website-dhirajyadav.ninja-2648ff?style=flat-square&logo=google-chrome)](https://dhirajyadav.ninja/)
+[![website](https://img.shields.io/badge/Personal_Website-dhirajyadav.ninja-2648ff?style=flat-square&logo=google-chrome)](https://dhirajyadav.ninja/)
